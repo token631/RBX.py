@@ -2,7 +2,7 @@ import requests
 import json
 
 from RBX_py.Utils import asset_types
-from from RBX_py.Errors import AssetNotFound
+from RBX_py.Errors import AssetNotFound
 
 class Asset:
     def __init__(self, id):
