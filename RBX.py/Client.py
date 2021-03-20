@@ -15,7 +15,3 @@ class Client:
         asset_obj = Asset(id=id)
         asset_obj.fetchData()
         return asset_obj
-
-c = Client()
-e = c.FetchAsset(456225312)
-print(e.Name)
