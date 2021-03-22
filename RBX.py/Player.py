@@ -1,8 +1,8 @@
 import requests
 import json
 
-from Errors import PlayerNotFound
-from Utils import name_id_data_type
+from RBX_py.Errors import PlayerNotFound
+from RBX_py.Utils import name_id_data_type
 
 class Player:
     def __init__(self, id):
