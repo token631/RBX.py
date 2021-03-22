@@ -8,10 +8,10 @@ setup(
   description = 'A simple API wrapper for ROBLOX',  
   author = 'Token',                   
   author_email = 'c@tokyran.com',     
-  url = 'https://github.com/user/RBX.py',   
+  url = 'https://github.com/token631/RBX.py',   
   download_url = 'https://github.com/token631/RBX.py/archive/v_01.tar.gz',   
-  keywords = ['Roblox'],   
-  install_requires=[],
+  keywords = ['Roblox','roblox api'],   
+  install_requires=['requests'],
   long_description="Please view the GitHub page (project Homepage) for more information.",
   classifiers=[
     'Development Status :: 3 - Alpha',     
