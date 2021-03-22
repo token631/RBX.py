@@ -1,3 +1,10 @@
+"""
+RBX.py/Client.py
+
+The heart of the RBX.py library;
+This class is what actually fetches the different object instances and is essentially the bridge between the user and the rest of the library.
+"""
+
 from RBX_py.Asset import Asset
 from RBX_py.Player import Player
 
