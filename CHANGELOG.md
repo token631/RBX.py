@@ -5,3 +5,10 @@ Change Log
 ------------------
 - First release!
 - Added Asset support
+
+0.5 (22/03/2021)
+------------------
+- Create a general structure for the lib
+- Added player support
+- Code cleanup
+- Some pog fixes from KILR :)
