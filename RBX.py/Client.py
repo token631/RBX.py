@@ -1,4 +1,5 @@
-from Asset import Asset
+from RBX_py.Asset import Asset
+from RBX_py.Player import Player
 
 class Client:
     def __init__(self):
