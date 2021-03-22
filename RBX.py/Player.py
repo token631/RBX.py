@@ -1,3 +1,9 @@
+"""
+RBX.py/Player.py
+
+Provides player support for the library via the users/id endpoint and other endpoints.
+Fetch data via accessing properties and calling class-exclusive functions.
+"""
 import requests
 import json
 
