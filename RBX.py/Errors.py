@@ -1,3 +1,10 @@
+"""
+RBX.py/Errors.py
+
+Simple exceptions that the lib throws
+Please remember to catch these exceptions when possible!
+"""
+
 class Exc(Exception):
     pass
 
