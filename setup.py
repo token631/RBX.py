@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
   name = 'RBX.py',        
   packages = ['RBX_py'],   
-  version = '0.0.1',    
+  version = '0.4',    
   license='MIT',       
   description = 'A simple API wrapper for ROBLOX',  
   author = 'Token',                   
