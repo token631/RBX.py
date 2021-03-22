@@ -45,3 +45,8 @@ asset_types = {
     61: "EmoteAnimation",
     62: "Video"
 }
+
+class name_id_data_type:
+    def __init__(self, name,ID):
+        self.Name = name
+        self.Id = ID
