@@ -1,3 +1,9 @@
+"""
+RBX.py/Utils.py
+
+Utilities that are used throughout the library.
+"""
+
 asset_types = {
     1: "Image",
     2: "TeeShirt",
