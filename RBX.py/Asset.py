@@ -1,3 +1,10 @@
+"""
+RBX.py/Asset.py
+
+Provides asset support for the library via the Marketplace/ProductInfo endpoint.
+Fetch data via accessing properties and calling class-exclusive functions.
+"""
+
 import requests
 import json
 
