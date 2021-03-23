@@ -4,7 +4,7 @@ from RBX_py import Client
 # Initialise the Client
 RBX_Client = Client()
 
-# Create an Asset object via using the fetch function
+# Create a Player object via using the fetch function
 UserObj = RBX_Client.FetchUser(327834301)
 
 # Print some of its properties
